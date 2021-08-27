@@ -6,11 +6,11 @@ Para trocar a chave, você pode ir aqui: https://developer.riotgames.com/
 ## Execução:
 Crie 2 terminais, em cada um faça dessa forma:
 
-1) 
+1) Terminal frontend
 - cd frontend
 - npm start
 
-2)
+2) Terminal backend
 - cd backend
 - npm start
 
